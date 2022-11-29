@@ -6,9 +6,9 @@
  
 <div align="center">
   <a href="https://github.com/lunnalvez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunnalvez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Lunna-pic" height="178" style="border-radius:50px;" 
+  <img height="132em" src="https://github-readme-stats.vercel.app/api?username=lunnalvez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunnalvez&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" alt="Lunna-pic" height="132" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/984443234652676139/1046564725363839137/download20221100201316.png">
 
 </div>
