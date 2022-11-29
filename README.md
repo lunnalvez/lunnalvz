@@ -13,7 +13,7 @@
   <img align="center" alt="Lunna-Cv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Lunna-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Lunna-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Lunna-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
+  <img align="center" alt="Lunna-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Lunna-Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <img align="right" alt="Lunna-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/984443234652676139/1046564725363839137/download20221100201316.png">
 </div>
@@ -28,7 +28,7 @@
   
 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lunnalvez/lunnalvez/blob/output/github-contribution-grid-snake.svg)
 
  </div>
 
